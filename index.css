@@ -13,6 +13,21 @@ header {
     padding: 20px;
 }
 
+.nav-div {
+    text-align: center;
+    color: rgb(24, 24, 77);
+    margin: 20px auto;
+}
+
+.nav-nav>span {
+    margin: 10px;
+}
+
+span a {
+    text-decoration: none;
+    color: rgb(24, 24, 77);
+}
+
 header h1 {
     color: rgb(24, 24, 77);
     text-align: center;
